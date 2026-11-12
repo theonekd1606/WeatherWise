@@ -1,0 +1,6 @@
+{
+  "name": "WeatherWise – Real-Time Weather Dashboard",
+  "description": "Desktop weather application providing real-time weather, 6-hour hourly forecast, 5-day forecast, interactive unit conversion, and IP location detection.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
